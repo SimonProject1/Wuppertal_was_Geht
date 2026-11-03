@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-11-03T19:30:00+01:00",
+  "events": [
+    {
+      "id": "juras-winter",
+      "title": "Literaturcafé: Juras letzter Winter",
+      "date": "2026-11-03",
+      "start": "19:00",
+      "end": "21:00",
+      "venue": "Kulturschmiede",
+      "category": "Lesung",
+      "price": "Preis beim Veranstalter",
+      "url": "https://www.wuppertal.de/kultur-bildung/veranstaltungskalender/index.php",
+      "source": "Stadt Wuppertal",
+      "status": "bestätigt"
+    },
+    {
+      "id": "bandfabrik-lesung",
+      "title": "Lesung in der Bandfabrik",
+      "date": "2026-11-03",
+      "start": "19:30",
+      "venue": "Bandfabrik",
+      "category": "Lesung",
+      "price": "Preis beim Veranstalter",
+      "url": "https://www.wuppertal.de/kultur-bildung/veranstaltungskalender/index.php",
+      "source": "Stadt Wuppertal",
+      "status": "bestätigt"
+    },
+    {
+      "id": "lachyoga",
+      "title": "Lachyoga",
+      "date": "2026-11-03",
+      "start": "18:00",
+      "venue": "Zentrum Emmaus",
+      "category": "Sport",
+      "price": "Preis beim Veranstalter",
+      "url": "https://www.wuppertal.de/kultur-bildung/veranstaltungskalender/index.php",
+      "source": "Stadt Wuppertal",
+      "status": "bestätigt"
+    },
+    {
+      "id": "schreibgruppe",
+      "title": "Schreiben ist Seelenzeit",
+      "date": "2026-11-03",
+      "start": "18:00",
+      "venue": "Christlicher Hospizdienst im Wuppertaler Westen e.V.",
+      "category": "Workshop",
+      "price": "Preis beim Veranstalter",
+      "url": "https://www.wuppertal.de/kultur-bildung/veranstaltungskalender/index.php",
+      "source": "Stadt Wuppertal",
+      "status": "bestätigt"
+    },
+    {
+      "id": "gregory-porter",
+      "title": "Gregory Porter + Support",
+      "date": "2026-11-04",
+      "start": "20:00",
+      "venue": "Historische Stadthalle Wuppertal",
+      "category": "Konzert",
+      "price": "ab 111,50 €",
+      "url": "https://www.stadthalle.de/de/events/programm/",
+      "source": "Historische Stadthalle Wuppertal",
+      "status": "bestätigt"
+    }
+  ]
+}

@@ -1,28 +1,14 @@
-# Wuppertal, was geht? V0.2.0
+# Wuppertal, was geht? V0.3.0
 
-**Dein Plan für heute.**
+## Neu
+- vereinfachter 3-Fragen-Assistent
+- Bereich „Heute in Wuppertal“
+- Filter Heute, Morgen, Wochenende und Kategorien
+- Eventdaten mit Quelle, Status und Prüfzeit
+- Favoriten und responsive PWA
 
-Eine mobile Freizeitplaner-PWA für Wuppertal. Die App liefert wenige, passende Vorschläge statt langer Trefferlisten.
+## Datenaktualisierung
+`data/events.json` enthält die kontrollierten Eventdaten. Die mitgelieferte GitHub Action prüft täglich, ob die Datei syntaktisch gültig und nicht veraltet ist. Eine automatische Übernahme aus dem offiziellen Veranstaltungskalender setzt eine freigegebene API/Feed-Nutzung oder eine separate rechtlich und technisch geprüfte Importanbindung voraus. Bis dahin Events nur aus offiziellen Quellen eintragen.
 
-## Markenaufbau
-- Hauptname: **Wuppertal, was geht?**
-- Hauptclaim: **Dein Plan für heute.**
-- Aktivierender Claim: **Sag uns, worauf ihr Lust habt. Wir zeigen euch, was geht.**
-- Nutzenclaim: **Mehr erleben. Weniger suchen.**
-- Lokaler Claim: **Aus Wuppertal. Für euren Tag.**
-- Kurzname der installierten App: **Was geht?**
-
-## Funktionen
-- regelbasierter Planungsassistent
-- Budget-, Personen-, Fahrtzeit- und Aktivitätsfilter
-- drei priorisierte Vorschläge
-- lokale Favoriten
-- installierbare Offline-PWA
-- responsive Smartphone-Oberfläche
-- eigene Artwork- und Icon-Serie
-
-## GitHub Pages
-Den Inhalt dieses Ordners in ein Repository hochladen. Danach unter **Settings > Pages** `Deploy from a branch`, Branch `main`, Ordner `/ (root)` wählen.
-
-## Hinweis
-Angebotsdaten sind aktuell eine Konzept-Demo. Preise, Öffnungszeiten, Links und Verfügbarkeiten müssen vor Veröffentlichung anhand offizieller Anbieterinformationen geprüft werden.
+## Veröffentlichung
+Alle Dateien in ein GitHub-Repository laden und GitHub Pages aus `main / root` aktivieren.
